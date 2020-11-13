@@ -22,6 +22,10 @@ You will also see any lint errors in the console.
     <td><img src="/assets/1.png"></td>
     <td><img src="/assets/2.png"></td>
   </tr>
+  <tr>
+    <td><img src="/assets/3.png"></td>
+    <td><img src="/assets/4.png"></td>
+  </tr>
 </table>
 
 ## Motivation
